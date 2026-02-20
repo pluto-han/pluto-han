@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pluto-han
+- 👋 Hi, I’m Hancong
 - 🌱 I’m currently a master student in Computer Science and Engineering @ TU/e
 - 👀 I’m interested in Coding & Gaming & Music
 - 📫 contact:
