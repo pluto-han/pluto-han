@@ -1,10 +1,3 @@
-- 👋 Hi, I’m Hancong
-- 🌱 I’m currently a master student in Computer Science and Engineering @ TU/e
-- 👀 I’m interested in Coding & Gaming & Music
-- 📫 contact:
-  - [linkedin](https://www.linkedin.com/in/hancong-zhang-075060341/)
-  - WeChat:Pluto030205
-
 #### Top open-source contributions
 
 <a href="https://github.com/JabRef/jabref/pulls?q=is%3Apr+author%3Apluto-han"><img title="My PRs in JabRef" alt="Number of my PRs in JabRef" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3AJabRef%2Fjabref%2Bis%3Apr%2Bauthor%3Apluto-han&label=JabRef&query=$.total_count&suffix=%20PRs&cacheSeconds=259200&style=plastic"></a>
